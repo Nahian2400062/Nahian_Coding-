@@ -2,7 +2,7 @@
 * The Graph I have is very confusing so I would like to change it and make it readable
 
 * I wanted to use cd but it was not working so I imported the excel file from my Browser
-import excel "C:\Users\Ibnat_Nahian\Desktop\Assignment_AsiaIndustry\raw\usa-imports.xls", sheet("FRED Graph") clear
+import excel "C:\Users\Ibnat_Nahian\Desktop\Assignment_AsiaIndustry\raw\usa-imports.xls", sheet("FRED Graph")
 (3 vars, 375 obs)
 browse
 * before the variables were A and B and to rename 
